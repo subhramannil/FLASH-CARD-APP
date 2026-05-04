@@ -48,5 +48,8 @@ Launch the App: Run main.py.
 
 Click the ❌ (Cross) button if you didn't know it. The word will remain in the deck for future sessions.
 
+<img width="1122" height="954" alt="Screenshot 2026-05-04 193626" src="https://github.com/user-attachments/assets/10021dd9-abb9-4d40-b8f8-371c7051dc5e" />
+
+
 <img width="1119" height="952" alt="image" src="https://github.com/user-attachments/assets/136b8dec-be70-40ba-8616-ba1ca1230022" />
 
