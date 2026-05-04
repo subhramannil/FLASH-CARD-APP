@@ -26,6 +26,7 @@ pip install pandas
 To run this code correctly, ensure your directory is organized as follows:
 
 ## Plaintext
+
 DAY-31/
 ├── data/
 │   ├── french_words.csv
